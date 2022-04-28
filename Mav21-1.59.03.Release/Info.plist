@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.EmbeddedSoftwareRestore.Baseband</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>com.apple.EmbeddedSoftwareRestore.Baseband</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>com.apple.EmbeddedSoftwareRestore.Baseband</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>com.apple.EmbeddedSoftwareRestore.Baseband.Build</key>
+	<string></string>
+	<key>com.apple.EmbeddedSoftwareRestore.Baseband.ChipId</key>
+	<string>0x001440E1</string>
+	<key>com.apple.EmbeddedSoftwareRestore.Baseband.RestoreSBLVersion</key>
+	<string>0xAB103E1F</string>
+	<key>com.apple.EmbeddedSoftwareRestore.Baseband.SBLVersion</key>
+	<string>0xAB003E1F</string>
+	<key>com.apple.EmbeddedSoftwareRestore.Baseband.Version</key>
+	<string>1.59.03</string>
+</dict>
+</plist>
