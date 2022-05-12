@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Yonkers,SysTopPatch9</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		H691SHRF3jOFlTNtpD4TS6Tgd7lpizAKAMtr6WUGNg4=
+		</data>
+		<key>EPRO</key>
+		<true/>
+		<key>FabRevision</key>
+		<integer>59905</integer>
+	</dict>
+	<key>Yonkers,SysTopPatchB</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		H691SHRF3jOFlTNtpD4TS6Tgd7lpizAKAMtr6WUGNg4=
+		</data>
+		<key>EPRO</key>
+		<true/>
+		<key>FabRevision</key>
+		<integer>61953</integer>
+	</dict>
+</dict>
+</plist>

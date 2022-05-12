@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Yonkers,SysTopPatch1</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		WCOxvjH1BZ2uVy1ylC+02Keuz9Rc7M6HJ9DP6zF3U0w=
+		</data>
+		<key>EPRO</key>
+		<true/>
+		<key>FabRevision</key>
+		<integer>6657</integer>
+	</dict>
+	<key>Yonkers,SysTopPatch3</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		WCOxvjH1BZ2uVy1ylC+02Keuz9Rc7M6HJ9DP6zF3U0w=
+		</data>
+		<key>EPRO</key>
+		<true/>
+		<key>FabRevision</key>
+		<integer>10753</integer>
+	</dict>
+	<key>Yonkers,SysTopPatch5</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		WCOxvjH1BZ2uVy1ylC+02Keuz9Rc7M6HJ9DP6zF3U0w=
+		</data>
+		<key>EPRO</key>
+		<true/>
+		<key>FabRevision</key>
+		<integer>8705</integer>
+	</dict>
+	<key>Yonkers,SysTopPatch7</key>
+	<dict>
+		<key>Digest</key>
+		<data>
+		WCOxvjH1BZ2uVy1ylC+02Keuz9Rc7M6HJ9DP6zF3U0w=
+		</data>
+		<key>EPRO</key>
+		<true/>
+		<key>FabRevision</key>
+		<integer>12801</integer>
+	</dict>
+</dict>
+</plist>
